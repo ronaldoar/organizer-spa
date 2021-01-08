@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "organizer-spa"
+    }
+  },
+  "defaultProject": "organizer-spa",
+  "cli": {
+    "analytics": "c695a220-81de-49b5-b4cb-7c4e27af4f6d"
+  }
 }
